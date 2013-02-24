@@ -10,7 +10,7 @@ body {
     font-family: @body-font;
     font-weight: lighter;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
 	font-family: @heading-font;
 	a {
 		color: black;
@@ -31,14 +31,6 @@ h3 {
   font-size: 24px;
 }
 
-time {
-	font-face: italic
-}
-
-html, body {
-  min-height: 100%; /* real browsers */
-  height: 100% !important; /* real browsers */
-}
 
 #container {
   text-align: center;
@@ -78,8 +70,6 @@ hgroup.logo {
   }
 }
 
-
-
 footer {
   text-align: center;
   position:relative;
@@ -109,6 +99,7 @@ footer, nav {
     padding-left: 1em;
     text-align: right;
     color: @grey;
+    font-face: italic
   }
 }
 
@@ -139,6 +130,8 @@ header {
   }
 }
 
+/*
+
 @grad-end: #ccc;
 @grad-quarter: #bbb;
 @grad-middle: #333;
@@ -150,16 +143,17 @@ hrr {
   height: 3px;
   margin-top: 1em;
   margin-bottom: 1em;
-  background: @grad-middle; /* Old browsers */
-  background: -moz-linear-gradient(left,  @grad-end 0%, @grad-quarter 25%, @grad-middle 50%, @grad-quarter 75%, @grad-end 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right top, color-stop(0%,@grad-end), color-stop(25%,@grad-quarter), color-stop(50%,@grad-middle), color-stop(75%,@grad-quarter), color-stop(100%,@grad-end)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(left,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(left,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(left,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%); /* IE10+ */
-  background: linear-gradient(to right,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@grad-end', endColorstr='@grad-end',GradientType=1 ); /* IE6-9 */
+  background: @grad-middle;
+  background: -moz-linear-gradient(left,  @grad-end 0%, @grad-quarter 25%, @grad-middle 50%, @grad-quarter 75%, @grad-end 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,@grad-end), color-stop(25%,@grad-quarter), color-stop(50%,@grad-middle), color-stop(75%,@grad-quarter), color-stop(100%,@grad-end));
+  background: -webkit-linear-gradient(left,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%);
+  background: -o-linear-gradient(left,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%);
+  background: -ms-linear-gradient(left,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%);
+  background: linear-gradient(to right,  @grad-end 0%,@grad-quarter 25%,@grad-middle 50%,@grad-quarter 75%,@grad-end 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@grad-end', endColorstr='@grad-end',GradientType=1 );
 }
 
+*/
 
 hr {
   clear: both;
@@ -169,8 +163,6 @@ hr {
   margin-top: 0px;
   margin-bottom: 0px;
 }
-
-
 
 .cf:before,
 .cf:after {

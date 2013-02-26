@@ -9,7 +9,7 @@ description: Why a free tier makes App.net worthwhile, and a brush with fate on 
 App.net [went freemium][adn_announcement] today.
 I'm not convinced I want it to succeed in Twitter's place (a [de-centralised][tent] alternative would be nice), but this is surely a step in the right direction.
 
-Lack of a free tier had been the main barrier to my entry: I'm not averse to paying for the service, but I would cringe at encouraging a friend to join were they obliged to pay.
+Lack of a free tier had been the main barrier to my entry: I'm not averse to paying for the service, but I would cringe at encouraging a friend to join, obliging them to pay.
 
 And what's the point of a social network you don't want to invite your friends to?
 

@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /blog/:categories/:year/:month/:day/:title
 
 server_port: 4445
 
@@ -15,7 +15,7 @@ title : Burnish
 tagline: Quietly Making Software
 author :
   name : Philip Blackwell
-  email : philip@burnish.co
+  email : hello@burnish.cc
   github : burnish
   twitter : blackp
   feedburner : feedname
@@ -28,5 +28,4 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://burnish.github.com
-
+production_url : http://www.burnish.cc

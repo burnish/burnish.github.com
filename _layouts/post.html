@@ -1,9 +1,17 @@
 ---
 layout: default
 ---
-<article class="post">
-{{ content }}
-<time datetime="{{ page.date | date: '%Y-%m-%d' }}">
-  &ndash;{{ page.date | date: "%d %b, %Y" }}
-</time>
-</article>
+<div id=page-body>
+    <div class="post">
+        <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+        <time datetime="{{ page.date | date: '%Y-%m-%d' }}">
+            {{ page.date | date: "%d %b, %Y" }}
+        </time>
+        {{ content }}
+    </div>
+
+    <br><br><a href="/blog.html" class="more-content">more posts</a>&hellip;
+
+</div>
+
+

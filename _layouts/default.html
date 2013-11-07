@@ -42,8 +42,18 @@
                     <hr>
                 </header>
                 {% endif %}
-
                 {{ content }}
+
+            <footer>
+                {% if page.title == "Quietly Making Software" %}
+                    <a href="/services.html">Services</a>
+                    &ndash;
+                    <a href="/blog.html">Blog</a>
+                    &ndash;
+                    <a href="/contact.html">Contact</a>
+                {% endif %}
+                <p class="copyright">©2013 Burnish Software Pty. Ltd.</p>
+            </footer>
             </div>
         </div>
     </body>

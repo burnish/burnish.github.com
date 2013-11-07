@@ -69,6 +69,10 @@ footer {
   position: relative;
   bottom: 10px;
 }
+footer .copyright {
+  font-size: smaller;
+  color: #808080;
+}
 footer a,
 nav a,
 footer a:visited,

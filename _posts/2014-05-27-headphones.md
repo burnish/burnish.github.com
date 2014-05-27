@@ -30,7 +30,7 @@ There's a huge caveat to all of this. It's only of any use if people are willing
 
 Tim Cook [pointed out two years ago][all-things-d] that he's not convinced many young people wear watches. Perhaps he's noticed that quite a few are very happy to wear a particular brand of headphones?
 
-[^1]: In particular, [episode three of exponent.fm][exponent] goes in to great detail on the topic of Beats, the hosts are much wiser than me and had many good points, but it seems like a huge blind spot not to see how important headphones as wearables might be.
+[^1]: In particular, episode three of [exponent.fm][exponent] goes in to great detail on the topic of Beats. The hosts are much wiser than me and had many good points, but it seems like a huge blind spot not to see how important headphones as wearables might be.
 
 [^2]: In the latest episode of [Mobile couch][mobile-couch] Jake touches on it (about an hour in).
 

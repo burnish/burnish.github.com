@@ -6,7 +6,7 @@ tags: [apple]
 description: Why headphones might be Apple's first step in wearables.
 ---
 
-There's a wacky theory I've previously reserved for conversation with some of my nerdier friends. After listening to the Internet talk about the Apple's possible acquisition of Beats for weeks, it's pained me not to hear it mentioned nearly enough [^1],[^2], [^3]. 
+There's a wacky theory I've previously reserved for conversation with some of my nerdier friends. After listening to the Internet talk about the Apple's possible acquisition of Beats for weeks, it's pained me not to hear it mentioned nearly enough. [^1],[^2],[^3] 
 
 Bluetooth headphones today are in a similar position to MP3 Players in 2001, smart phones in 2006 and tablet PCs in 2010. They're a technology that 'believers' know can be transformative, but no one has quite cracked it. 
 

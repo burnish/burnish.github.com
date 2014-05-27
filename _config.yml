@@ -4,7 +4,7 @@ permalink: /blog/:categories/:year/:month/:day/:title
 
 port: 4445
 
-exclude: ["Rakefile", "style/less/"]
+exclude: ["Rakefile", "Gemfile", "README.md", "style/less/"]
 pygments: true
 
 # Themes are encouraged to use these universal variables 

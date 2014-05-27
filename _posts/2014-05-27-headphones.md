@@ -20,7 +20,7 @@ All of that changes with a [good set][LG-tone] of wireless headphones. They're a
 
 ### Transformative
 
-I might be biased. As a frequent listener of podcasts, headphones are possibly the primary interface to my phone. But they truly change the way I use it. I could list a handful of examples, but the feature it boils down to is ability to instantly turn them off and divert my attention. No worry about some stupid cable dangling around my neck and where I'll put it.
+I might be biased. As a frequent listener of podcasts, headphones are possibly the primary interface to my phone. I could list a handful of examples where wireless headphones changes the way I use my phone, but it all boils down to one feature: the ability to instantly turn them off and divert my attention. Not to worry about some stupid cable dangling around my neck and where I'll put it.
 
 It's at that point they become truly wearable.
 

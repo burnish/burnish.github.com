@@ -1,7 +1,7 @@
 ---
 title: Star &#x2260; Endorsement
 layout: post
-category: twitter casterly
+category: casterly
 tags: []
 description: Why it might not be so bad that Twitter sometimes surfaces tweets based on who stars them.
 ---
@@ -14,7 +14,7 @@ Any recommendation algorithm comes with false positives, which might range from 
 
 Everyone is entitled to a different interpretation of how Twitter should work. As a regular user with friend, follower, tweet, and favourite counts in the low hundreds; my perspective is quite different to most of those complaining (who tend to have numbers in the tens of thousands). My gut feeling is that the net effect of this change will be for the positive.
 
-There are all sorts of ways I would like to improve the algorithms that drive Casterly's episode recommendations. I look forward to a day when those slightly awkward false positives are better culled. I bet Twitter is a long way ahead of me in getting there too. It's still likely that occasional tweets will surface where the star was not intended as endorsement. But really, what's the harm? Give a bit of credit to the follower to work that out in context.
+There are all sorts of ways I would like to improve the algorithms that drive Casterly's episode recommendations. I look forward to a day when those slightly awkward false positives are better culled. I bet Twitter is a long way ahead of me in getting there too. It's still likely that occasional tweets will surface where the star was not intended as an endorsement. But really, what's the harm? Give a bit of credit to the follower to work that out in context.
 
 [^1]: With the exception of protected accounts.
 [^2]: There have been other strategies where the trade off has not been worthwhile. Given the sparsity of podcast episode links in some user's timelines there are various other ways I've tried to reach further into a user's Twitter network of activity. The "starred by" is the only one so far that I'm mostly comfortable with.

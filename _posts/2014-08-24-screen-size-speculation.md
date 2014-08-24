@@ -8,7 +8,7 @@ description: Fruitless speculation about what resolution would make sense for a 
 
 [John Gruber][daring-fireball] has a good article speculating on what the next iPhone screen sizes might be. He's definitely got the main point right: any screen that Apple might choose for a hypothetical 4.7 or 5.5 inch iPhone would need to show 44 points at approximately the same physical size as existing devices. The numbers he comes up with just sound a bit off to me though. In particular, 667&nbsp;&#215;&nbsp;375 for a 4.7 inch phone.
 
-I don't know whether there's any technical reason for it, but when choosing a screen size wouldn't you want to pick a nice round number? Tim Tams famously come with 11 in a pack, so there's no way to share them evenly[^1]. But a screen is not a pack of biscuits. It just feels right to be able to divide the screen up evenly[^2]. 
+I don't know whether there's any technical reason for it, but when choosing a screen size wouldn't you want to pick a nice round number? Tim Tams famously come with 11 in a pack, so there's no way to share them evenly[^1]. But a screen is not a pack of biscuits. It just feels right to be able to divide it up evenly[^2]. 
 
 So forgetting about the exact pixel sizes for a minute, what are some nicer numbers? Any thing divisible by 16 would be a good start. So how about moving 667&nbsp;&#215;&nbsp;375 to its nearest divisible by 16 neighbour, 656&nbsp;&#215;&nbsp;368? It's pretty close to 16&nbsp;&#215;&nbsp;9 (as close as the iPhone 5 is).
 Then you can't help but look at 640&nbsp;&#215;&nbsp;360, which works out to 720p @2x and 1080p @3x.

@@ -68,6 +68,9 @@ hgroup.logo h4 {
   color: #808080;
   font-size: 40px;
 }
+.more-content {
+  text-align: center;
+}
 footer {
   text-align: center;
   position: relative;

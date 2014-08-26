@@ -32,4 +32,8 @@ author :
 #
 production_url : http://www.burnish.cc
 
+name: Burnish
+description: Quietly Making Software
+url: http://www.burnish.cc
+
 env: prod

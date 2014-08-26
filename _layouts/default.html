@@ -11,7 +11,9 @@
     <meta name="description" content="{{ page.description }}">
     {% endif %}
     <title>Burnish &mdash; {{ page.title }}</title>
-    {% if site.env != "dev" %}
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+
+    {% if site.safe %}
     <script type="text/javascript">
 
         var _gaq = _gaq || [];

@@ -14,12 +14,12 @@ After playing with them both side by side in the store for about 15 minutes, it 
 
 Seems slightly counter intuitive, but it was my big hands that made the decision to get the smaller phone easy.
 
-The simple test I used for this was to just count how many apps on the home screen I could reach without contortion.
+The simple test I used was to count how many apps on the home screen I could reach without contortion.
 
-   - On the 4.7 inch screen there were no icons I couldn't reach. The top left and bottom left were a bit uncomfortable.
+   - On the 4.7 inch screen there were no icons out of my reach. The top left and bottom left were a bit uncomfortable.
    - On the 5.5 inch screen there were 6 icons I couldn't reach without changing my grip, and another 6 that were uncomfortable.
 
-Smaller hands would make the decision harder. If you're not able to use the phone one handed anyway, why not just get the bigger one?
+Smaller hands might make the decision harder. If you're not able to use the phone one handed anyway, why not just get the bigger one?
 
 ### Crisp Screens
 

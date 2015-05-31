@@ -28,7 +28,7 @@ In my personal use, very few apps require me to resort to the launcher. It's not
  - *Camera Remote:* this screams out for some sort of handoff mode. (To outline a handoff mode UI is beyond the scope of this post, but a transient notification would be a good start.)
  - *Phone/Messages:* This is mostly a shortcoming of the "friends dial". Twelve contacts seems very limiting, why not force touch for a list of all contacts? (Or just for an option to launch the Phone and Messages apps.)
 
-This is a short list, but I'm sure there would be other ways of launching apps that might be more suitable than a junk drawer. I can't help but wonder if its presence gets in the way of better options thriving.  
+Surely there are many other ways of launching apps that might be more suitable than a junk drawer. I can't help but wonder if its presence gets in the way of better options thriving.  
 
 [^1]: Ben Thompson does most of the talking and makes many great points, but James really hits the nail on the head in a remark at about 53 minutes.
 [^2]: To be fair, the exact words were "I almost think of the app mode as sort of like a junk drawer", and not meant in a denigrating way (1:09). Either way, the term "junk drawer" really crystalized my thoughts.

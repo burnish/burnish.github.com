@@ -11,10 +11,10 @@ At first, I thought I was being too negative. I love the watch, but the contrari
 
 As it stands there are four ways to launch an app. Horace Dediu lays them out in the this [heirarchy][battle-for-the-wrist]:
 
-    - A complication 
-    - A glance
-    - A notification
-    - The home screen
+ - A complication 
+ - A glance
+ - A notification
+ - The home screen
 
 It's a problem that the last weighs so much on the overall complexity of the interface. A pragmatic solution would be to lessen the prominence of the app launcher (and stop calling it the "home screen"). Demote it from a mode (in Gruber's parlance) to an app whose sole purpose is to launch other apps. Of course, you need a way to launch it, one option would be the "null complication" (that is, a tap anywhere on the watch face that is not a complication).
 

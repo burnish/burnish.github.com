@@ -31,7 +31,7 @@ In my personal use, very few apps require me to resort to the launcher. It's not
 Surely there are many other ways of launching apps that might be more suitable than a junk drawer. I can't help but wonder if its presence gets in the way of better options thriving.  
 
 [^1]: Ben Thompson does most of the talking and makes many great points, but James really hits the nail on the head in a remark at about 53 minutes.
-[^2]: To be fair, the exact words were "I almost think of the app mode as sort of like a junk drawer", and not meant in a denigrating way at about 1 hour and 9 minutes. Either way, the term "junk drawer" really crystalized my thoughts.
+[^2]: To be fair, the exact words were "I almost think of the app mode as sort of like a junk drawer", and not meant in a denigrating way (at about 1:09). Either way, the term "junk drawer" really crystalized my thoughts.
 
 [no-place-like-home]: https://medium.com/backchannel/for-the-apple-watch-there-s-no-place-like-home-and-that-s-a-problem-b37810b6fd34
 [two-modes]: http://daringfireball.net/2015/05/apple_watch_interaction_model

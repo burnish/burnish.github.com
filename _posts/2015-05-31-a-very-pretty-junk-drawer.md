@@ -5,8 +5,6 @@ tags: watch
 description: As a "Home screen", the app launcher weighs heavily in the interface of the Apple Watch. Is it really necessary?
 ---
 
-# A Very Pretty Junk Drawer
-
 Ever since the introduction of the Apple Watch, I've been skeptical of the home screen and digital crown. Both seemed like tech demos that were too cool not to ship. Solutions in search of a problem. After wearing the watch for a month, I'm sold on the digital crown. It fits in seamlessly, and can be a delight to use. The home screen has not won me over. It is sometimes a delight to use, but adds [significant complexity][no-place-like-home] to the user interface as a whole. It took John Gruber eight weeks to get his head around the "[two modes][two-modes]".
 
 At first, I thought I was being too negative. I love the watch, but the contrarian in me  always wants some nit to pick. As is often the case though, two recent podcasts have convinced me this is worth exploring. First was the always excellent [exponent.fm][exponent]. James Allworth [summed up most clearly][exponent-watch-that-does-stuff] the potential problem of thinking about the watch as a small phone[^1]. This is the home screen to a tee. Then on [The Talk Show][move-to-frisco], John Gruber referred to the app mode as a junk drawer[^2]. A junk drawer is a dangerous thing to have in the design of a piece of software, a pretty one is dangerous all the more. It's at least worth considering the opportunity cost of having this very pretty junk drawer.
